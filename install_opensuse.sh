@@ -41,7 +41,7 @@ install_pkg libusb-1_0-devel
 
 # TurboJPEG pour le décodage JPEG
 echo "   - TurboJPEG"
-install_pkg libjpeg-turbo libturbojpeg0
+install_pkg libjpeg-turbo libturbojpeg0-devel
 
 # GLFW pour OpenGL
 echo "   - GLFW3"
