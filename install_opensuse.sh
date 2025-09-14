@@ -45,7 +45,7 @@ install_pkg libjpeg-turbo libturbojpeg0
 
 # GLFW pour OpenGL
 echo "   - GLFW3"
-install_pkg libglfw3 libglfw-devel
+install_pkg glfw-devel
 
 # OpenGL (Mesa)
 echo "   - OpenGL/Mesa"
