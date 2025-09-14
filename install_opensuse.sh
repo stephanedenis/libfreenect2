@@ -49,7 +49,7 @@ install_pkg libglfw3 libglfw-devel
 
 # OpenGL (Mesa)
 echo "   - OpenGL/Mesa"
-install_pkg Mesa-devel Mesa-libGL-devel Mesa-libEGL-devel Mesa-libGLU-devel
+install_pkg Mesa-devel Mesa-libGL1 Mesa-libEGL1 Mesa-libGLU1
 
 echo ""
 echo "3. Installation des dépendances optionnelles..."
